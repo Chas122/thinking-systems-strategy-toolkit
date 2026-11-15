@@ -36,6 +36,10 @@ If the owner cannot or will not answer, state the assumptions you are making and
 
 **Test the proposition before any framework.** Check the owner's own facts and figures against each other. Does the claim add up? For example: can the extra people named really produce the extra turnover named, does the budget cover the plan, does the deadline allow the steps? If something does not add up, say so in the answer at the top. It is often the most useful finding, and no framework will surface it.
 
+**An owner's estimate is a claim to test, not a fact.** When the owner tells you what something will cost or earn and you also have their accounts or other figures, compare each estimate with the nearest real line: an expected wage with the current wage bill per head, an expected price with what they charge now, an expected cost with what the same thing costs them today. Show the sum. If they differ, say so in the answer and work out the result both ways. Never tell the owner their figures agree unless you have done this and can show it.
+
+**Always cover two things, asked or not.** First, the owner's own capacity: their hours, their health, who else can do the work and what happens if they cannot. Second, the obvious alternative to what they are deciding: not doing it, doing something smaller, or getting the same gain another way, such as raising prices when they are already turning work away. If the owner skipped or could not answer a question about either, do not drop it: say it is unknown, why it matters, and what to find out.
+
 **Use everything the owner gave.** Every fact and constraint (budget, time horizon, deadline, things ruled out) must be used and answered. If they gave a budget, say how to spend it and how much to hold back. If they gave a horizon, cover the whole of it. If they gave a deadline, say how to use the time before it.
 
 ## 3. Evidence and source tags
@@ -77,6 +81,8 @@ General checklist:
 - Has every fact and constraint the owner gave been used and answered, including budget, horizon and deadline?
 - Have the owner's own figures been tested against each other?
 - Does every [Owner] tag sit on something the owner said or supplied? Retag anything inferred as [Assumed].
+- Has every estimate the owner gave been compared with their own accounts or current figures, with the sum shown?
+- Does the reply cover the owner's own capacity and the obvious alternative to the decision, even if only to say they are unknown?
 - Is any assumption standing in for a term of the deal or a fact the owner could have given? If the follow-up round is unused, ask. If not, put it first under "What this is based on" and say how the answer changes if it is wrong.
 - Does every figure, including those inside tables, carry its own source tag? Do figures in the answer agree with figures in the tables?
 
@@ -112,7 +118,7 @@ Order of a single analysis:
 
 Rules:
 
-- Aim for under 900 words for a single analysis. Cut before you add.
+- Keep a single analysis under 900 words, counting tables. Before sending, count; if it is over, cut the findings table first, then rows of the analysis table that do not bear on the decision, then any sentence that repeats a table. Do not cut the answer, the "What this is based on" table or the next steps.
 - Explain the source tags once, in one line, the first time they appear.
 - Show only the parts of a framework that bear on the decision. Drop rows that do not, and say in a few words what each remaining row label means.
 - Recommendations should be usable: where it fits, give a rule for go or no-go, and say what would change the view.
