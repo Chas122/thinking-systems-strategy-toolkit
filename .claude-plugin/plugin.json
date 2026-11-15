@@ -1,0 +1,14 @@
+{
+  "name": "thinking-systems-strategy-toolkit",
+  "displayName": "Thinking Systems Strategy Toolkit",
+  "description": "Structured strategic analysis for small and medium-sized businesses: PESTEL, Five Forces, Value chain, SWOT and growth options, each checked against its own checklist, with sources and confidence ratings. A guide skill chooses which analyses fit a decision and runs them in the order that lets each feed the next.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Thinking Systems",
+    "url": "https://thinkingsystems.uk"
+  },
+  "homepage": "https://thinkingsystems.uk",
+  "repository": "https://github.com/Chas122/thinking-systems-strategy-toolkit",
+  "license": "MIT",
+  "keywords": ["strategy", "swot", "pestel", "five-forces", "value-chain", "ansoff", "small-business", "sme", "decision-making", "analysis"]
+}
