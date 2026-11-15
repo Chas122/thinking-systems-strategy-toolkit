@@ -19,16 +19,22 @@ Owners and managers of small and medium-sized businesses, usually without a stra
 
 ## 2. Frame the question first
 
-Do not start an analysis until these are known. Take them from the conversation if they are already there. Ask for what is missing in one short message, at most four questions.
+Do not start an analysis until these are known. Take them from the conversation if they are already there. Ask for what is missing in one short message, at most four questions, in this order. Owners often answer only the first few, so the question that matters most goes first.
 
-- **The business:** what it sells, to whom, where, and roughly how big it is.
 - **The decision or question:** what the owner is trying to decide or understand. "Do a SWOT" is not a decision; ask what it is for.
-- **Time horizon:** the period that matters (for example 12 months, 3 years).
-- **Known constraints:** money, people, time, regulation, anything already ruled out.
+- **The thing being decided on.** When the decision is about a specific opportunity or commitment (a contract or tender, a loan, a purchase, a hire, new premises), ask for its terms: what it is worth and for how long, what it requires of the business (accreditation, insurance, kit, people), how and when the business would be paid, how it will be judged, and any deadline. Ask what the owner expects it to cost and to earn. These terms usually decide the answer, and the owner usually knows them.
+- **The business:** what it sells, to whom, where, and roughly how big it is.
+- **Time horizon and constraints:** the period that matters, and money, people, time, regulation or anything already ruled out.
+
+If a document would answer several questions at once (for example the latest profit and loss account, or a tender pack), ask for it instead of asking the questions one by one.
+
+**Ask once more if it matters.** After the owner replies, check what is still missing. If the decision itself is unknown, a question was skipped, or a fact the answer turns on is missing and the owner is likely to know it, ask one short follow-up of at most three questions, most decisive first. Do not ask again for anything the owner has said they do not know. One follow-up round is the limit: after it, carry on.
+
+**Never assume what the owner could tell you in one line.** An assumed payment term, price or requirement that turns out wrong makes the figures wrong. Ask for it in the first message or the follow-up. Assume only what the owner does not know or has not answered after being asked.
 
 If the owner cannot or will not answer, state the assumptions you are making and carry on.
 
-**Test the proposition before any framework.** Check the owner's own facts and figures against each other. Does the claim add up? For example: can the extra people named really produce the extra turnover named, does the budget cover the plan, does the deadline allow the steps? If something does not add up, say so in the bottom line. It is often the most useful finding, and no framework will surface it.
+**Test the proposition before any framework.** Check the owner's own facts and figures against each other. Does the claim add up? For example: can the extra people named really produce the extra turnover named, does the budget cover the plan, does the deadline allow the steps? If something does not add up, say so in the answer at the top. It is often the most useful finding, and no framework will surface it.
 
 **Use everything the owner gave.** Every fact and constraint (budget, time horizon, deadline, things ruled out) must be used and answered. If they gave a budget, say how to spend it and how much to hold back. If they gave a horizon, cover the whole of it. If they gave a deadline, say how to use the time before it.
 
@@ -36,7 +42,7 @@ If the owner cannot or will not answer, state the assumptions you are making and
 
 Tag every factual claim with where it came from:
 
-- **[Owner]** the owner said it, or it is in a document they supplied.
+- **[Owner]** the owner said it, or it is in a document they supplied. A sum done only on the owner's figures is also [Owner]; show the sum.
 - **[Web]** found by searching during this conversation. Name the source.
 - **[General]** general knowledge about the industry or framework, not checked for this business.
 - **[Assumed]** an assumption made to fill a gap.
@@ -45,6 +51,8 @@ Rules:
 
 - Search the web for anything current (competitors, prices, regulation, market trends) when a search tool is available. If none is available, say so once and use [General] or [Assumed].
 - Never present [General] or [Assumed] as fact about this business.
+- Use [Owner] only for what the owner actually said or supplied. A conclusion you drew from it, a description they did not use ("trained", "loyal", "no track record") or a reading of their silence is [Assumed]. The owner must be able to trust that [Owner] means their own words.
+- Never tell the owner they said, asked for or agreed something unless it is in the conversation.
 - If a section would contain only [Assumed] items, say what the owner would need to find out, and do not pad it.
 - Do not invent numbers. If a number matters and is unknown, say so.
 
@@ -68,7 +76,9 @@ General checklist:
 - Has anything been included only to fill the framework's boxes? Remove it. An empty box with a note is better than a padded one.
 - Has every fact and constraint the owner gave been used and answered, including budget, horizon and deadline?
 - Have the owner's own figures been tested against each other?
-- Does every figure, including those inside tables, carry its own source tag? Do figures in the bottom line agree with figures in the tables?
+- Does every [Owner] tag sit on something the owner said or supplied? Retag anything inferred as [Assumed].
+- Is any assumption standing in for a term of the deal or a fact the owner could have given? If the follow-up round is unused, ask. If not, put it first under "What this is based on" and say how the answer changes if it is wrong.
+- Does every figure, including those inside tables, carry its own source tag? Do figures in the answer agree with figures in the tables?
 
 ## 5. Confidence
 
@@ -84,12 +94,21 @@ The owner is busy. Give the answer first and keep it short enough to read in abo
 
 Order of a single analysis:
 
-1. **Bottom line.** Three to five lines answering the owner's question as far as the evidence allows, with a confidence rating. If the evidence does not support an answer, say what would.
-2. **Assumptions.** One short list, stated once. Never repeat it later in the reply.
-3. **What to do next.** Two to four concrete steps, each with its main risk.
-4. **The analysis.** The framework table, with a source tag on each item, and a few lines on what matters most.
-5. **Findings.** The compact record described in section 7.
-6. **Limits and open questions.** A few lines.
+1. **The question.** One line restating what the owner is deciding, in their terms.
+2. **The answer.** Three lines at most, answering as far as the evidence allows, with a confidence rating and its reason. If the evidence does not support an answer, say what would.
+3. **What this is based on.** One table, so the owner can see at a glance what went in and correct it:
+
+   ```
+   | Input | Value used | Where it came from |
+   |-------|------------|--------------------|
+   | ...   | ...        | You said / Your P&L / Assumed, because ... / General knowledge |
+   ```
+
+   List each input the answer rests on, assumptions included, most important first, at most eight rows. Under the table, one line each for: what could not be established, and tools used or missing (for example "No web search was available, so nothing about competitors is checked"). This table replaces a separate assumptions list. State assumptions here once and nowhere else.
+4. **What to do next.** Two to four concrete steps, each with its main risk.
+5. **The analysis.** The framework table, with a source tag on each item, and a few lines on what matters most.
+6. **Findings.** The compact record described in section 7.
+7. **Limits and open questions.** A few lines.
 
 Rules:
 
@@ -97,7 +116,7 @@ Rules:
 - Explain the source tags once, in one line, the first time they appear.
 - Show only the parts of a framework that bear on the decision. Drop rows that do not, and say in a few words what each remaining row label means.
 - Recommendations should be usable: where it fits, give a rule for go or no-go, and say what would change the view.
-- Say each thing once. Do not restate the question, the assumptions, or a table's contents in prose or in a second table.
+- Say each thing once. Apart from the one-line question at the top, do not restate the question, the assumptions, or a table's contents in prose or in a second table.
 - Write to the owner. Never mention skills, plugins, files, checklists or "carrying forward". If you name another framework, explain it in a few words, for example "a competitor analysis (Five Forces)".
 - If another analysis would strengthen this one, say so in one line under Limits, not at the top.
 - Do not print rows of "Not known". List what is unknown as questions for the owner.
@@ -114,8 +133,8 @@ End each analysis with a short findings table, so the owner has a record and lat
 | 1 | ...     | [Owner] / [Web] / [General] / [Assumed] | High / Medium / Low | strength / weakness / opportunity / threat / option |
 ```
 
-- At most six rows. Include only findings not already obvious from the bottom line, or needed by a later analysis. Keep each to one line.
-- Leave the table out altogether if it would only repeat the bottom line and the analysis table. Repetition costs the owner more than a missing record.
+- At most six rows. Include only findings not already obvious from the answer, or needed by a later analysis. Keep each to one line.
+- Leave the table out altogether if it would only repeat the answer and the analysis table. Repetition costs the owner more than a missing record.
 - A gap in knowledge is not an assumption. Put gaps under open questions.
 - Before starting any analysis, look in the conversation for earlier findings tables and use them. When writing to the owner, refer to an earlier finding in words ("the competitor analysis found that..."), not by code. Keep their source tags and confidence: a finding does not become more certain by being reused.
 - If the new analysis contradicts an earlier finding, say so plainly.
@@ -126,7 +145,7 @@ End each analysis with a short findings table, so the owner has a record and lat
 - This is structured thinking support, not professional advice. For legal, tax, financial or regulatory decisions, tell the owner to check with a qualified adviser.
 - These frameworks come mainly from large-company and Western business-school settings. Say so when a framework fits the business poorly, and adapt it.
 - An analysis is only as good as its evidence. If most findings are Low confidence, say that the main next step is finding things out, not deciding.
-- End with one line, once per reply: for a tailored analysis with human judgement, the owner can book a conversation at https://thinkingsystems.uk.
+- Mention further help only when it is earned. If most key findings are Low confidence, or the owner asks where to get more help, add one line under Limits: a conversation with a person can be booked at https://thinkingsystems.uk. Otherwise leave it out: an owner who did not ask reads it as advertising, and it costs the trust the rest of the reply builds.
 
 ## 9. Style
 

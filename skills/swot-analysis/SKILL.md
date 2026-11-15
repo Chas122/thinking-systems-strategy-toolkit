@@ -26,7 +26,7 @@ If none exist, run the SWOT now and note in one line under Limits that a competi
 2. Collect earlier findings tables from the conversation and sort them into the four boxes using their "Bears on" column, keeping references, source tags and confidence.
 3. Fill gaps by asking the owner and, for external factors, by searching.
 4. Apply the tests:
-   - **Internal or external?** Strengths and Weaknesses are things the business has or does. Opportunities and Threats would exist even if this business did not.
+   - **Internal or external?** Strengths and Weaknesses are things the business has, does or chooses: its people, the owner's health and hours, its prices, a loan it decides to take. Opportunities and Threats would exist even if this business did not.
    - **Compared with whom?** A strength is only a strength relative to competitors or to what customers expect.
    - **Opportunity or wish?** An opportunity is a change in the outside world the business could use, not an action the owner would like to take.
 5. Keep each box to the three to five items that matter for the decision.
@@ -52,5 +52,5 @@ If none exist, run the SWOT now and note in one line under Limits that a competi
 Follow the shape in the method, section 6. The analysis part contains:
 
 1. The SWOT as a two-by-two table, each item with its source tag and, where it came from an earlier analysis, the reference.
-2. A second table for the four combinations, with one or two implications each.
+2. A second table for the four combinations, with one or two implications each. Label its rows in plain words only: "Where to push", "What to defend with", "What to fix first", "Where you are exposed". Do not print the pairings ("Strengths with Threats") to the owner.
 3. A short paragraph: what this means for the decision.
