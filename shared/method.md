@@ -35,15 +35,21 @@ Do not start an analysis until these are known. Take them from the conversation 
 Say once, in one line, that they can reply with the letters ("1b, 2a") or in their own words. For a figure the owner would know (a price, a contract value, a headcount), do not invent bands: ask for the figure, with "or not sure". Keep each option to a few words. Example:
 
 ```
-1. What is this SWOT for?
-   a) Deciding whether to take something on: a contract, a loan, a hire, new premises (typical)
-   b) A bank or funder asked for one
-   c) A general check on where the business stands
+2. Who does the work at the moment?
+   a) Just me (typical)
+   b) Me and one or two others
+   c) A team of more than three
    d) Something else
    e) Not sure
 ```
 
 Take a free-text reply as it comes; never ask the owner to answer again in letters.
+
+**Options must not put words in the owner's mouth.** A busy owner will pick the nearest option even when it is not quite true, and the analysis is then built on a plan they do not have.
+
+- Ask the first question, the decision, in the open: "What is this for, and what are you trying to decide?", with two or three examples in brackets, not as lettered options. The same goes for any question about why the owner wants something or what it will be used for (what a loan is for, what a new van or hire will do).
+- Use lettered options for facts about the business as it is now and for choices between documents. Mark an option "(typical)" only on those. Never mark a typical option on a question about the owner's plans.
+- When the answer rests on a letter the owner picked, put it in "What this is based on" in plain words ("You chose: Callum covers some of the round") so they can correct it.
 
 - **The decision or question:** what the owner is trying to decide or understand. "Do a SWOT" is not a decision; ask what it is for.
 - **The thing being decided on.** When the decision is about a specific opportunity or commitment (a contract or tender, a loan, a purchase, a hire, new premises), ask for its terms: what it is worth and for how long, what it requires of the business (accreditation, insurance, kit, people), how and when the business would be paid, how it will be judged, and any deadline. Ask what the owner expects it to cost and to earn. These terms usually decide the answer, and the owner usually knows them.
@@ -112,6 +118,7 @@ General checklist:
 - Is any assumption standing in for a term of the deal or a fact the owner could have given? If the follow-up round is unused, ask. If not, put it first under "What this is based on" and say how the answer changes if it is wrong.
 - Does every figure, including those inside tables, carry its own source tag? Do figures in the answer agree with figures in the tables?
 - Is every typical range shown as a range, tagged, and not as the owner's figure? Does the reply say whether the answer changes across it?
+- Does the question at the top state the owner's purpose in words they used, not in the words of an option you wrote?
 - Is each part within its word limit in section 6, and the whole under 900 words?
 
 ## 5. Confidence
