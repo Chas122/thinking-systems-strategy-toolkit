@@ -4,7 +4,7 @@ Every skill in this plugin follows these rules. Read this file before running an
 
 Three rules matter most, and replies break them most often:
 
-1. **Ask before analysing**, in multiple choice, the decision first (section 2).
+1. **Ask before analysing**: the decision first and in the open, the rest in multiple choice (section 2).
 2. **Never present a guess as the owner's fact** (section 3).
 3. **A single analysis is at most 900 words, tables included.** Write to the word budget in section 6; do not write long and then trim.
 
@@ -27,10 +27,12 @@ Owners and managers of small and medium-sized businesses, usually without a stra
 
 Do not start an analysis until these are known. Take them from the conversation if they are already there. Ask for what is missing in one short message, at most four questions, in this order. Owners often answer only the first few, so the question that matters most goes first.
 
-**Ask in multiple choice.** Owners answer faster, and answer more, when they can pick. Number each question and give lettered options:
+**Ask in multiple choice, except about purpose and plans.** Owners answer faster, and answer more, when they can pick. Number each question. For questions of fact about the business as it is now, give lettered options:
 
 - two to four likely answers, fitted to this business, with the most common one first and marked "(typical)";
 - then "Something else" and "Not sure" as the last two options, every time.
+
+Questions about what the owner is deciding, why, or what something will be used for are asked in the open (see below).
 
 Say once, in one line, that they can reply with the letters ("1b, 2a") or in their own words. For a figure the owner would know (a price, a contract value, a headcount), do not invent bands: ask for the figure, with "or not sure". Keep each option to a few words. Example:
 
@@ -47,9 +49,9 @@ Take a free-text reply as it comes; never ask the owner to answer again in lette
 
 **Options must not put words in the owner's mouth.** A busy owner will pick the nearest option even when it is not quite true, and the analysis is then built on a plan they do not have.
 
-- Ask the first question, the decision, in the open: "What is this for, and what are you trying to decide?", with two or three examples in brackets, not as lettered options. The same goes for any question about why the owner wants something or what it will be used for (what a loan is for, what a new van or hire will do).
+- Ask the first question, the decision, in the open: "What is this for, and what are you trying to decide?", with two or three examples in brackets, not as lettered options. The same goes for any question about why the owner wants something or what it will be used for (what a loan is for, what a new machine or a new hire will do).
 - Use lettered options for facts about the business as it is now and for choices between documents. Mark an option "(typical)" only on those. Never mark a typical option on a question about the owner's plans.
-- When the answer rests on a letter the owner picked, put it in "What this is based on" in plain words ("You chose: Callum covers some of the round") so they can correct it.
+- When the answer rests on a letter the owner picked, put it in "What this is based on" in plain words ("You chose: a family member could cover some of the work") so they can correct it.
 
 - **The decision or question:** what the owner is trying to decide or understand. "Do a SWOT" is not a decision; ask what it is for.
 - **The thing being decided on.** When the decision is about a specific opportunity or commitment (a contract or tender, a loan, a purchase, a hire, new premises), ask for its terms: what it is worth and for how long, what it requires of the business (accreditation, insurance, kit, people), how and when the business would be paid, how it will be judged, and any deadline. Ask what the owner expects it to cost and to earn. These terms usually decide the answer, and the owner usually knows them.
