@@ -37,7 +37,7 @@ You can ask for any analysis on its own. If you are not sure which you need, the
 
 ## How to use it
 
-1. Install the plugin from the Claude directory.
+1. Install the plugin. Version 0.2.0-beta is a private beta and is not in the Claude directory: install it from the plugin file you were given.
 2. Start a conversation and describe your business and the decision you are facing. Or name the analysis you want.
 3. Answer the few questions Claude asks. The more you tell it about how your business really works, the better the result.
 4. Correct anything that is wrong. Your corrections are the best evidence it has.
