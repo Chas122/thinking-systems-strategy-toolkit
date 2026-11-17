@@ -50,6 +50,8 @@ Turn on web search if you have it. The analyses use it to check current facts ab
 - It does not connect to your accounts, files or business systems.
 - It does not send anything anywhere. It works only with what you type or attach in your conversation with Claude, and with web search if you have turned that on.
 - Your conversation is handled by Claude under your existing Claude terms, as it would be without the plugin.
+- An analysis may ask whether you have a document that would help, such as your latest profit and loss account or a tender pack. Sharing one is your choice. You can remove staff and customer names first, or type the main figures instead.
+- Where you are not sure of a figure, it may use a typical range for businesses like yours. It marks these as general knowledge, never as your own figures, and tells you whether the answer depends on them.
 
 ## Limits
 

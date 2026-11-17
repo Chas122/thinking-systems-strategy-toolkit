@@ -2,6 +2,12 @@
 
 Every skill in this plugin follows these rules. Read this file before running any analysis.
 
+Three rules matter most, and replies break them most often:
+
+1. **Ask before analysing**, in multiple choice, the decision first (section 2).
+2. **Never present a guess as the owner's fact** (section 3).
+3. **A single analysis is at most 900 words, tables included.** Write to the word budget in section 6; do not write long and then trim.
+
 ## Contents
 1. Who this is for
 2. Frame the question first
@@ -21,18 +27,38 @@ Owners and managers of small and medium-sized businesses, usually without a stra
 
 Do not start an analysis until these are known. Take them from the conversation if they are already there. Ask for what is missing in one short message, at most four questions, in this order. Owners often answer only the first few, so the question that matters most goes first.
 
+**Ask in multiple choice.** Owners answer faster, and answer more, when they can pick. Number each question and give lettered options:
+
+- two to four likely answers, fitted to this business, with the most common one first and marked "(typical)";
+- then "Something else" and "Not sure" as the last two options, every time.
+
+Say once, in one line, that they can reply with the letters ("1b, 2a") or in their own words. For a figure the owner would know (a price, a contract value, a headcount), do not invent bands: ask for the figure, with "or not sure". Keep each option to a few words. Example:
+
+```
+1. What is this SWOT for?
+   a) Deciding whether to take something on: a contract, a loan, a hire, new premises (typical)
+   b) A bank or funder asked for one
+   c) A general check on where the business stands
+   d) Something else
+   e) Not sure
+```
+
+Take a free-text reply as it comes; never ask the owner to answer again in letters.
+
 - **The decision or question:** what the owner is trying to decide or understand. "Do a SWOT" is not a decision; ask what it is for.
 - **The thing being decided on.** When the decision is about a specific opportunity or commitment (a contract or tender, a loan, a purchase, a hire, new premises), ask for its terms: what it is worth and for how long, what it requires of the business (accreditation, insurance, kit, people), how and when the business would be paid, how it will be judged, and any deadline. Ask what the owner expects it to cost and to earn. These terms usually decide the answer, and the owner usually knows them.
 - **The business:** what it sells, to whom, where, and roughly how big it is.
 - **Time horizon and constraints:** the period that matters, and money, people, time, regulation or anything already ruled out.
 
-If a document would answer several questions at once (for example the latest profit and loss account, or a tender pack), ask for it instead of asking the questions one by one.
+**Offer a document as an option.** If a document would answer several questions at once (the latest profit and loss account, a tender pack, a quote, a loan offer), make sending it one of the options, beside typing the main figures and "Not sure". Sharing is the owner's choice: say in a few words that they can remove staff and customer names first, and carry on without it if they prefer. When a document arrives, use its figures in place of asking for them, and quote them exactly.
 
 **Ask once more if it matters.** After the owner replies, check what is still missing. If the decision itself is unknown, a question was skipped, or a fact the answer turns on is missing and the owner is likely to know it, ask one short follow-up of at most three questions, most decisive first. Do not ask again for anything the owner has said they do not know. One follow-up round is the limit: after it, carry on.
 
 **Never assume what the owner could tell you in one line.** An assumed payment term, price or requirement that turns out wrong makes the figures wrong. Ask for it in the first message or the follow-up. Assume only what the owner does not know or has not answered after being asked.
 
 If the owner cannot or will not answer, state the assumptions you are making and carry on.
+
+**When the owner is not sure of a figure the answer turns on, offer a typical range.** Do not leave a blank and do not pick a single number. Give a range for businesses like theirs, in their country, with its basis in a few words, tagged [General] (or [Web], with the source, if you could check it). Use the range in the sums, show it in "What this is based on" as a typical range and not their figure, and say whether the answer changes between the low and the high end. If you do not know a typical range with reasonable confidence, say so and list it as something to find out. Never invent one.
 
 **Test the proposition before any framework.** Check the owner's own facts and figures against each other. Does the claim add up? For example: can the extra people named really produce the extra turnover named, does the budget cover the plan, does the deadline allow the steps? If something does not add up, say so in the answer at the top. It is often the most useful finding, and no framework will surface it.
 
@@ -85,6 +111,8 @@ General checklist:
 - Does the reply cover the owner's own capacity and the obvious alternative to the decision, even if only to say they are unknown?
 - Is any assumption standing in for a term of the deal or a fact the owner could have given? If the follow-up round is unused, ask. If not, put it first under "What this is based on" and say how the answer changes if it is wrong.
 - Does every figure, including those inside tables, carry its own source tag? Do figures in the answer agree with figures in the tables?
+- Is every typical range shown as a range, tagged, and not as the owner's figure? Does the reply say whether the answer changes across it?
+- Is each part within its word limit in section 6, and the whole under 900 words?
 
 ## 5. Confidence
 
@@ -118,7 +146,18 @@ Order of a single analysis:
 
 Rules:
 
-- Keep a single analysis under 900 words, counting tables. Before sending, count; if it is over, cut the findings table first, then rows of the analysis table that do not bear on the decision, then any sentence that repeats a table. Do not cut the answer, the "What this is based on" table or the next steps.
+- **Word budget.** A single analysis is at most 900 words, counting every word in every table. Replies written without a budget come out at about 1,100, so write to these limits from the start:
+
+  | Part | Limit |
+  |---|---|
+  | The question and the answer | 80 words |
+  | What this is based on | 8 rows, 12 words a row, 2 lines under it |
+  | What to do next | 4 steps, 30 words each |
+  | The analysis | 300 words in all, tables included; each table cell 15 words |
+  | Findings | leave out unless another analysis is planned in this conversation; then 4 rows |
+  | Limits and open questions | 5 lines, 80 words |
+
+  That comes to about 750 and leaves room. Before sending, check each part against its limit and cut to fit: the findings table first, then rows of the analysis table that do not bear on the decision, then any sentence that repeats a table. Do not cut the answer, the "What this is based on" table or the next steps. A follow-up message after the analysis is short: answer what was asked and do not repeat the analysis.
 - Explain the source tags once, in one line, the first time they appear.
 - Show only the parts of a framework that bear on the decision. Drop rows that do not, and say in a few words what each remaining row label means.
 - Recommendations should be usable: where it fits, give a rule for go or no-go, and say what would change the view.
