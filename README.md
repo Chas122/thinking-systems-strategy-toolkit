@@ -2,6 +2,8 @@
 
 Structured strategic analysis for small and medium-sized businesses, as a plugin for Claude.
 
+> **Public beta (version 0.2.0-beta).** Only the SWOT analysis has been tested so far, and only in simulation: Claude role-played business owners and a separate reviewer compared the results blind with plain Claude. The other five skills have not been tested yet. All testing used Claude Opus 5.5. Please check the results and tell us what you find (see [Feedback](#feedback)).
+
 Most businesses look at a decision from one or two angles. This toolkit gives you a structured way to look at it from several, with each analysis checked before you see it and every claim marked with where it came from.
 
 ## What it does
@@ -37,10 +39,12 @@ You can ask for any analysis on its own. If you are not sure which you need, the
 
 ## How to use it
 
-1. Install the plugin. Version 0.2.0-beta is a private beta and is not in the Claude directory: install it from the plugin file you were given.
+1. Install the plugin in Claude: download the .zip file from [thinkingsystems.uk/tools](https://thinkingsystems.uk/tools/) (or the latest release on this repository), then in Claude go to Customize, Plugins, Add, Upload plugin, choose the .zip and Upload. It is not in the Claude directory.
 2. Start a conversation and describe your business and the decision you are facing. Or name the analysis you want.
 3. Answer the few questions Claude asks. The more you tell it about how your business really works, the better the result.
 4. Correct anything that is wrong. Your corrections are the best evidence it has.
+
+Try it with: "Run a SWOT on a village bakery deciding whether to open on Sundays". Claude should ask a few lettered questions before it answers. It was tested with Claude Opus 5.5; other models may behave differently.
 
 Turn on web search if you have it. The analyses use it to check current facts about your market and competitors. Without it, they still run, and mark those points as general knowledge or assumptions.
 
@@ -67,6 +71,21 @@ PESTEL, Five Forces, the value chain, SWOT and the Ansoff Matrix are standard, w
 
 The toolkit helps you structure your thinking. For a tailored analysis with human judgement, book a conversation at [thinkingsystems.uk](https://thinkingsystems.uk).
 
+## Feedback
+
+This is a beta, and feedback decides what changes next. After you have tried it, please tell us:
+
+1. Did it tell you anything you didn't already know, or make you see the decision differently?
+2. Was anything confusing, irritating or too long?
+3. Will you do anything differently because of it? If so, what?
+
+Use the contact form at [thinkingsystems.uk/contact](https://thinkingsystems.uk/contact/), email charlie@thinkingsystems.uk, or open an issue on this repository. Please leave out anything confidential about your business.
+
+## Known issues in this beta
+
+- Replies can run over the intended 900 words, especially when you ask side questions.
+- It occasionally marks an option "(typical)" on a question about your plans, where no answer is typical. Pick what is true for you.
+
 ## Support
 
 Questions and problems: open an issue on this repository, or email charlie@thinkingsystems.uk.
@@ -77,4 +96,5 @@ MIT. See [LICENSE](LICENSE).
 
 ## Version
 
-0.1.0: first release. Five analyses and the strategy guide. More analyses are planned.
+- 0.2.0-beta: public beta. Asks about the decision first, with multiple-choice questions; shows what the answer is based on at the top; tests your own figures; declines tax and legal questions; holds a single analysis to about 900 words. Changes tested on the SWOT skill only.
+- 0.1.0: first release. Five analyses and the strategy guide.

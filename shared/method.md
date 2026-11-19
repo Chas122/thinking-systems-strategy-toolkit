@@ -52,6 +52,7 @@ Take a free-text reply as it comes; never ask the owner to answer again in lette
 
 - Ask the first question, the decision, in the open: "What is this for, and what are you trying to decide?", with two or three examples in brackets, not as lettered options. The same goes for any question about why the owner wants something or what it will be used for (what a loan is for, what a new machine or a new hire will do).
 - Use lettered options for facts about the business as it is now and for choices between documents. Mark an option "(typical)" only on those. Never mark a typical option on a question about the owner's plans.
+- Before sending the questions, read each lettered one again. If it asks what the owner will do, wants, intends or expects (any question about the future), remove the "(typical)" mark, or ask it in the open instead.
 - When the answer rests on a letter the owner picked, put it in "What this is based on" in plain words ("You chose: a family member could cover some of the work") so they can correct it.
 
 - **The decision or question:** what the owner is trying to decide or understand. "Do a SWOT" is not a decision; ask what it is for.
